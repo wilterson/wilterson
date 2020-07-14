@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wiltersongarcia@gmail.com)](mailto:wiltersongarcia@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/wilterson/)](https://www.instagram.com/wilterson/)
 
-I'm a fullstack web developer currently working for [Peepi](https://peepi.com.br).
+I'm a fullstack web developer currently working for [Peepi](https://www.peepi.com.br/).
 
 - 💻 I work mostly with Vue and Laravel
 - 💙 In love with JavaScript
