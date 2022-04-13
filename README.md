@@ -4,4 +4,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wiltersongarcia@gmail.com)](mailto:wiltersongarcia@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/wilterson/)](https://www.instagram.com/wilterson/)
 
-I'm a senior backend engineer currently working at [Hypery](https://www.hypery.co/).
+I'm a senior backend engineer currently working at [Hypery](https://hypery.co/).
